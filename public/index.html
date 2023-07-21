@@ -1,0 +1,36 @@
+<!--
+ * @Author: yangxiaosen
+ * @Date: 2023-04-16 11:12:10
+ * @LastEditors: Do not edit
+ * @LastEditTime: 2023-04-21 09:01:58
+ * @FilePath: \travel\public\index.html
+-->
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+  <title>
+    <%= htmlWebpackPlugin.options.title %>
+  </title>
+  <script>
+    // fontsize计算rem.1rem=...px,设计稿为750
+    document.documentElement.style.fontSize = document.documentElement.clientWidth / 375 * 16 + 'px';
+  </script>
+  <script type="text/javascript" src="https://api.map.baidu.com/getscript?v=3.0&ak=fspQ5Zv0pLeBQWIrcFi892wFIarm08Tw"></script>
+
+</head>
+
+<body style="background-color:  #E4E7ED;">
+  <noscript>
+    <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled.
+        Please enable it to continue.</strong>
+  </noscript>
+  <div id="app"></div>
+  <!-- built files will be auto injected -->
+</body>
+
+</html>
