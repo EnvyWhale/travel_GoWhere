@@ -12,7 +12,7 @@
 
 ## 项目目录
 
-![目录](https://github.com/EnvyWhale/travel_GoWhere/blob/main/view_show/1689944000901.png)
+![Image text](https://github.com/EnvyWhale/travel_GoWhere/blob/main/view_show/1689944000901.png)
 
 
 
@@ -85,29 +85,29 @@ npm run build
 
 在public文件夹中的index.html引入百度API
 
-![1689944000901](..\travel\view_show\1689944000901.png)
+![Image text](https://github.com/EnvyWhale/travel_GoWhere/blob/main/view_show\1689944000901.png)
 
 
 
 **首页**
 
-![1689943170592](..\travel\view_show\1689943170592.png)
+![1689943170592](https://github.com/EnvyWhale/travel_GoWhere/blob/main/view_show\1689943170592.png)
 
 **订单页**
 
-![1689943277672](..\travel\view_show\1689943277672.png)
+![1689943277672](https://github.com/EnvyWhale/travel_GoWhere/blob/main/view_show\1689943277672.png)
 
 **客服页**
 
-![170332](..\travel\view_show\170332.png)
+![170332](https://github.com/EnvyWhale/travel_GoWhere/blob/main/view_show\170332.png)
 
 **我的**
 
-![1689943297818](..\travel\view_show\1689943297818.png)
+![1689943297818](https://github.com/EnvyWhale/travel_GoWhere/blob/main/view_show\1689943297818.png)
 
 **详情页**
 
-![1689943323328](..\travel\view_show\1689943323328.png)
+![1689943323328](https://github.com/EnvyWhale/travel_GoWhere/blob/main/view_show\1689943323328.png)
 
 
 
