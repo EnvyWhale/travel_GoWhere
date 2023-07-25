@@ -12,7 +12,7 @@
 
 ## 项目目录
 
-![](..\travel\view_show\1689945634405.png)
+![目录](https://github.com/EnvyWhale/travel_GoWhere/blob/main/view_show/1689944000901.png)
 
 
 
